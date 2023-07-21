@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "855331671759",
+    "project_id": "imaginify-f55b4",
+    "storage_bucket": "imaginify-f55b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855331671759:android:1e0586d3dc9deb56ae71ba",
+        "android_client_info": {
+          "package_name": "com.prodaabes.imaginify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855331671759-e0lcan6pmbj3etvv1phjcgd6jkreu7sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjLR0InvxG0MXhviQ5Z3cYywt9yaElsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855331671759-e0lcan6pmbj3etvv1phjcgd6jkreu7sm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855331671759-i82ivu8vbibr2elb866dn87veq461jbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prodaabes.imaginify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
